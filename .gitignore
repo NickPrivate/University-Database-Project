@@ -1,0 +1,6 @@
+# .gitignore
+includes/config.php
+includes/db_connection.php
+
+# Exclude project requirements PDF file
+Project Requirements.pdf
